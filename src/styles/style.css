@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap");
+
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+h3 {
+  color: gold;
+  font-size: 14px;
+  border-top: 2px ridge gold;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  background: #6b4a29;
+  text-align: center;
+  font-family: "Cinzel", serif;
+  margin: 0;
+}
+
+#card-img {
+  width: 200px;
+  border-radius: 8px;
+  display: inline-block;
+  transition: all 0.4s;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+#card-img:hover {
+  transform: scale(1.4);
+}
+
+#container {
+  display: inline-block;
+}
+
+p {
+  font-size: 14px;
+  color: rgb(255, 115, 34);
+}
+
+span {
+  font-weight: bold;
+  color: #000;
+}
+
+#search {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+#search input {
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  transition: all 0.4s;
+  outline: 2px solid transparent;
+}
+
+#search input:focus {
+  outline: 2px solid gold;
+}
