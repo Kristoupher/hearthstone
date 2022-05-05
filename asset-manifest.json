@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hearthstone/static/css/main.c9564c7f.css",
+    "main.js": "/hearthstone/static/js/main.8ad70b0a.js",
+    "index.html": "/hearthstone/index.html",
+    "main.c9564c7f.css.map": "/hearthstone/static/css/main.c9564c7f.css.map",
+    "main.8ad70b0a.js.map": "/hearthstone/static/js/main.8ad70b0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9564c7f.css",
+    "static/js/main.8ad70b0a.js"
+  ]
+}
